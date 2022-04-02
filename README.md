@@ -4,7 +4,7 @@ The objective of this report is to analyze the waether in an Island in Hawaii Oa
 The objecive of the class is the students learn Advance Data Storage and Retrival, and learn about new tools such as SQlite, a version of SQL that Lives on a computer or phone, smaller, faster and it doesnt have users, also learn abot SQLAlchemy a query tool designed for SQLite and integration of statistical analysis with dataframes analysis and too wrap up, we learned about Flask no required in this challenge or object of this report. additionally we learned the difference beetwen SQlite and PostgreeSQL databases, the use of statisticals like minimum, maximum, and average to analize data; finally how to design a Flask application using data.
 Please see the summary of resorces in the following point.
 
-![This is and image]
+![This is and image](https://github.com/JJF1962/surfs_up/blob/main/Resources/Summary%20of%20statistics%20June.PNG)
 
 ![This is an image] 
 
